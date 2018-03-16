@@ -17,5 +17,5 @@
             </intent-filter>
         </activity>
     </application>
-
+<!-- 冲突测试 -->
 </manifest>
